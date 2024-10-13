@@ -1,0 +1,10 @@
+type: theory
+custom_name: 'Задача 4. Квадрат суммы 🆚 Сумма квадратов '
+files:
+  - name: main.py
+    visible: true
+  - name: __init__.py
+    visible: false
+    propagatable: false
+  - name: img.png
+    visible: true
