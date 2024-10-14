@@ -5,5 +5,5 @@ programming_language: Python
 environment: unittest
 content:
   - Education
-  - Quiz
   - Practice
+  - Additional
